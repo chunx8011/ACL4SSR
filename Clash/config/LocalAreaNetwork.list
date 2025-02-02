@@ -15,6 +15,7 @@ IP-CIDR,10.0.0.0/8,no-resolve
 IP-CIDR,100.64.0.0/10,no-resolve
 IP-CIDR,127.0.0.0/8,no-resolve
 IP-CIDR,172.16.0.0/12,no-resolve
+IP-CIDR,172.20.10.0/28,no-resolve
 IP-CIDR,224.0.0.0/4,no-resolve
 IP-CIDR6,::1/128,no-resolve
 IP-CIDR6,fc00::/7,no-resolve
@@ -24,8 +25,8 @@ IP-CIDR6,fd00::/8,no-resolve
 # Router managed 路由器管理域名
 DOMAIN,instant.arubanetworks.com
 DOMAIN,setmeup.arubanetworks.com
-DOMAIN,router.asus.com
-DOMAIN,www.asusrouter.com
+DOMAIN,kb.netgear.com
+DOMAIN,www.netgear.com
 DOMAIN-SUFFIX,hiwifi.com
 DOMAIN-SUFFIX,leike.cc
 DOMAIN-SUFFIX,miwifi.com
