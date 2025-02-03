@@ -3,6 +3,7 @@
 # 杂项关键字阿里收集个人稳私
 IP-CIDR,192.0.0.0/8
 DOMAIN-KEYWORD,yunti
+DOMAIN-KEYWORD,yunti
 DOMAIN-KEYWORD,xusai
 DOMAIN-KEYWORD,fskare
 DOMAIN-KEYWORD,mmstat
@@ -1094,7 +1095,6 @@ DOMAIN-SUFFIX,ads.csdn.net
 DOMAIN-SUFFIX,ads.feedly.com
 DOMAIN-SUFFIX,ads.genieessp.com
 DOMAIN-SUFFIX,ads.house365.com
-DOMAIN-SUFFIX,ads.linkedin.com
 DOMAIN-SUFFIX,adshownew.it168.com
 DOMAIN-SUFFIX,adv.ccb.com
 DOMAIN-SUFFIX,advert.api.thejoyrun.com
