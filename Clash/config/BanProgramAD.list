@@ -1,6 +1,29 @@
 # 包含常用应用的各种去广告规则。
 # 可能有轻微副作用，可放心使用。（如果网站功能和广告冲突，会删掉去广告规则）
-
+# 杂项关键字阿里收集个人稳私
+IP-CIDR,192.0.0.0/8
+DOMAIN-KEYWORD,yunti
+DOMAIN-KEYWORD,xusai
+DOMAIN-KEYWORD,fskare
+DOMAIN-KEYWORD,mmstat
+DOMAIN-SUFFIX,go.warpplus.cc
+DOMAIN-KEYWORD,alicdn
+DOMAIN-KEYWORD,privacyreport
+DOMAIN-KEYWORD,Finish
+DOMAIN-KEYWORD,doubleclick
+DOMAIN-KEYWORD,yimg
+DOMAIN-KEYWORD,reddit
+DOMAIN-KEYWORD,adsrvr
+DOMAIN-KEYWORD,bing
+DOMAIN-KEYWORD,mxpnl
+DOMAIN-KEYWORD,yahoo
+DOMAIN-KEYWORD,mixpanel
+DOMAIN-KEYWORD,google-analytics
+DOMAIN-KEYWORD,quora
+DOMAIN-KEYWORD,redditstatic
+DOMAIN-KEYWORD,googletagmanager
+DOMAIN-KEYWORD,tvsquared
+DOMAIN-KEYWORD,sangfor
 # 163
 DOMAIN-SUFFIX,a.youdao.com
 DOMAIN-SUFFIX,adgeo.corp.163.com
