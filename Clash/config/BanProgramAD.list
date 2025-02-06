@@ -41,6 +41,10 @@ DOMAIN-KEYWORD,redditstatic
 DOMAIN-KEYWORD,googletagmanager
 DOMAIN-KEYWORD,tvsquared
 DOMAIN-KEYWORD,sangfor
+# Adobe
+DOMAIN-KEYWORD,adobe
+# adobestats.io
+DOMAIN-KEYWORD,adobestats
 # 163
 DOMAIN-SUFFIX,a.youdao.com
 DOMAIN-SUFFIX,adgeo.corp.163.com
@@ -158,14 +162,10 @@ DOMAIN-SUFFIX,tns.simba.taobao.com
 DOMAIN-SUFFIX,tyh.taobao.com
 DOMAIN-SUFFIX,userimg.qunar.com
 DOMAIN-SUFFIX,yiliao.hupan.com
-
-# Adobe
-DOMAIN-KEYWORD,adobe
-
 # Apple
 DOMAIN-SUFFIX,adserver.unityads.unity3d.com
 
-# AutoHome
+# AutoHome汽车之家
 DOMAIN-KEYWORD,autohome
 
 # Baidu
