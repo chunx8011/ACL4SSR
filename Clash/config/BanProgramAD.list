@@ -160,44 +160,13 @@ DOMAIN-SUFFIX,userimg.qunar.com
 DOMAIN-SUFFIX,yiliao.hupan.com
 
 # Adobe
-DOMAIN-SUFFIX,3dns-2.adobe.com
-DOMAIN-SUFFIX,3dns-3.adobe.com
-DOMAIN-SUFFIX,activate-sea.adobe.com
-DOMAIN-SUFFIX,activate-sjc0.adobe.com
-DOMAIN-SUFFIX,activate.adobe.com
-DOMAIN-SUFFIX,adobe-dns-2.adobe.com
-DOMAIN-SUFFIX,adobe-dns-3.adobe.com
-DOMAIN-SUFFIX,adobe-dns.adobe.com
-DOMAIN-SUFFIX,ereg.adobe.com
-DOMAIN-SUFFIX,geo2.adobe.com
-DOMAIN-SUFFIX,hl2rcv.adobe.com
-DOMAIN-SUFFIX,hlrcv.stage.adobe.com
-DOMAIN-SUFFIX,lm.licenses.adobe.com
-DOMAIN-SUFFIX,lmlicenses.wip4.adobe.com
-DOMAIN-SUFFIX,na1r.services.adobe.com
-DOMAIN-SUFFIX,na2m-pr.licenses.adobe.com
-DOMAIN-SUFFIX,practivate.adobe.com
-DOMAIN-SUFFIX,wip3.adobe.com
-DOMAIN-SUFFIX,wwis-dubc1-vip60.adobe.com
+DOMAIN-KEYWORD,adobe
 
 # Apple
 DOMAIN-SUFFIX,adserver.unityads.unity3d.com
 
 # AutoHome
-DOMAIN-SUFFIX,33.autohome.com.cn
-DOMAIN-SUFFIX,adproxy.autohome.com.cn
-DOMAIN-SUFFIX,al.autohome.com.cn
-DOMAIN-SUFFIX,alert.autohome.com.cn
-DOMAIN-SUFFIX,applogapi.autohome.com.cn
-DOMAIN-SUFFIX,c.autohome.com.cn
-DOMAIN-SUFFIX,cmx.autohome.com.cn
-DOMAIN-SUFFIX,dspmnt.autohome.com.cn
-DOMAIN-SUFFIX,pcd.autohome.com.cn
-DOMAIN-SUFFIX,push.app.autohome.com.cn
-DOMAIN-SUFFIX,pvx.autohome.com.cn
-DOMAIN-SUFFIX,rd.autohome.com.cn
-DOMAIN-SUFFIX,rdx.autohome.com.cn
-DOMAIN-SUFFIX,stats.autohome.com.cn
+DOMAIN-KEYWORD,autohome
 
 # Baidu
 DOMAIN-SUFFIX,a.baidu.cn
